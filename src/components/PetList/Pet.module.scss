@@ -1,0 +1,18 @@
+.pet__wrapper {
+    max-width: 1440px;
+    background: rgba(19, 74, 156, 0.432);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px 0;
+    .pet__left {
+        border: 1px solid #000;
+        max-width: 550px;
+        width: 100%;
+        
+    }
+    .pet__right  {
+        border: 1px solid #000;
+        max-width: 550px;
+        width: 100%;
+    }
+}

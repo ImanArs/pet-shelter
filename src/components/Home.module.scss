@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.home__main {
+    max-width: 1440px;
+    padding: 30px 0;
+    .home__wrapper {
+        display: flex;
+        h1{
+            color: #fff;
+        }
+        .home__img {
+            width: 40%;
+            border-radius: 25px;
+        }
+    }
+}

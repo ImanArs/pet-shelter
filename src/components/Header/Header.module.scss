@@ -1,0 +1,15 @@
+.header {
+    max-width: 1440px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background: #25274d;
+    color: #fff;
+    a {
+        color: #fff;
+        text-decoration: none;
+    }
+    img {
+        width: 70px;
+    }
+}
